@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Magenta</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="tab_text_1">CHAT</string>
+    <string name="tab_text_2">ACTIVE</string>
+    <string name="tab_text_3">TOP CHATTER</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="username">Username</string>
+</resources>
